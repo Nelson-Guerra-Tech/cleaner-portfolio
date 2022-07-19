@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cleanfolio/static/css/main.9e73a4ab.chunk.css",
-    "main.js": "/cleanfolio/static/js/main.18d32def.chunk.js",
-    "main.js.map": "/cleanfolio/static/js/main.18d32def.chunk.js.map",
-    "runtime-main.js": "/cleanfolio/static/js/runtime-main.c4a74007.js",
-    "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.c4a74007.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/cleanfolio/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.4dbd0539.chunk.js": "/cleanfolio/static/js/2.4dbd0539.chunk.js",
-    "static/js/2.4dbd0539.chunk.js.map": "/cleanfolio/static/js/2.4dbd0539.chunk.js.map",
-    "index.html": "/cleanfolio/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/cleanfolio/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.9e73a4ab.chunk.css.map": "/cleanfolio/static/css/main.9e73a4ab.chunk.css.map",
-    "static/js/2.4dbd0539.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.4dbd0539.chunk.js.LICENSE.txt",
-    "static/media/waving-hand.645909a2.png": "/cleanfolio/static/media/waving-hand.645909a2.png"
+    "main.css": "/Nelson-Guerra-Tech/cleaner-portfolio/static/css/main.9e73a4ab.chunk.css",
+    "main.js": "/Nelson-Guerra-Tech/cleaner-portfolio/static/js/main.18d32def.chunk.js",
+    "main.js.map": "/Nelson-Guerra-Tech/cleaner-portfolio/static/js/main.18d32def.chunk.js.map",
+    "runtime-main.js": "/Nelson-Guerra-Tech/cleaner-portfolio/static/js/runtime-main.8c69ede9.js",
+    "runtime-main.js.map": "/Nelson-Guerra-Tech/cleaner-portfolio/static/js/runtime-main.8c69ede9.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/Nelson-Guerra-Tech/cleaner-portfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.91dc5f5f.chunk.js": "/Nelson-Guerra-Tech/cleaner-portfolio/static/js/2.91dc5f5f.chunk.js",
+    "static/js/2.91dc5f5f.chunk.js.map": "/Nelson-Guerra-Tech/cleaner-portfolio/static/js/2.91dc5f5f.chunk.js.map",
+    "index.html": "/Nelson-Guerra-Tech/cleaner-portfolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/Nelson-Guerra-Tech/cleaner-portfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.9e73a4ab.chunk.css.map": "/Nelson-Guerra-Tech/cleaner-portfolio/static/css/main.9e73a4ab.chunk.css.map",
+    "static/js/2.91dc5f5f.chunk.js.LICENSE.txt": "/Nelson-Guerra-Tech/cleaner-portfolio/static/js/2.91dc5f5f.chunk.js.LICENSE.txt",
+    "static/media/waving-hand.645909a2.png": "/Nelson-Guerra-Tech/cleaner-portfolio/static/media/waving-hand.645909a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4a74007.js",
+    "static/js/runtime-main.8c69ede9.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.4dbd0539.chunk.js",
+    "static/js/2.91dc5f5f.chunk.js",
     "static/css/main.9e73a4ab.chunk.css",
     "static/js/main.18d32def.chunk.js"
   ]
