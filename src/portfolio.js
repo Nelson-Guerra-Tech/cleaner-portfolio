@@ -1,32 +1,31 @@
-import { FaReact } from 'react-icons/fa'
-import styled from 'styled-components'
+import { FaReact } from 'react-icons/fa';
+
 import {
   SiFirebase,
   SiNetlify,
   SiCss3,
-  SiTesla,
   SiHtml5,
   SiJavascript,
   SiMaterialui,
   SiGit,
   SiTailwindcss,
-} from 'react-icons/si'
+} from 'react-icons/si';
 
-const reactIcon = <FaReact className='project-icon react rotate' />
-const firebaseIcon = <SiFirebase className='project-icon firebase' />
-const netlifyIcon = <SiNetlify className='project-icon netlify' />
-const cssIcon = <SiCss3 className='project-icon css' />
-const htmlIcon = <SiHtml5 className='project-icon html' />
-const javascriptIcon = <SiJavascript className='project-icon javascript' />
-const tailwindtIcon = <SiTailwindcss className='project-icon tailwind' />
-const materialIcon = <SiMaterialui className='project-icon material-ui' />
-const gitIcon = <SiGit className='project-icon git' />
+const reactIcon = <FaReact className='project-icon react rotate' />;
+const firebaseIcon = <SiFirebase className='project-icon firebase' />;
+const netlifyIcon = <SiNetlify className='project-icon netlify' />;
+const cssIcon = <SiCss3 className='project-icon css' />;
+const htmlIcon = <SiHtml5 className='project-icon html' />;
+const javascriptIcon = <SiJavascript className='project-icon javascript' />;
+const tailwindtIcon = <SiTailwindcss className='project-icon tailwind' />;
+const materialIcon = <SiMaterialui className='project-icon material-ui' />;
+const gitIcon = <SiGit className='project-icon git' />;
 
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rajshekhar26.github.io/cleanfolio',
   title: 'NG.',
-}
+};
 
 const about = {
   // all the properties are optional - can be left empty or deleted
@@ -40,7 +39,7 @@ const about = {
     linkedin: 'https://www.linkedin.com/in/nelson-guerra-7075b413a/',
     github: 'https://github.com/Nelson-Guerra-Tech',
   },
-}
+};
 
 const projects = [
   // projects can be added an removed
@@ -105,7 +104,7 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
-]
+];
 
 const skills = [
   // skills can be added or removed
@@ -141,15 +140,20 @@ const skills = [
     name: 'Material UI',
   },
   {
+    icon: firebaseIcon,
+    space: ' - ',
+    name: 'Firebase',
+  },
+  {
     icon: gitIcon,
     space: ' - ',
     name: 'Git',
   },
-]
+];
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 'nelsonguerra.tech@outlook.com',
-}
+};
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, skills, contact };
