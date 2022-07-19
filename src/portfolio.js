@@ -22,13 +22,11 @@ const materialIcon = <SiMaterialui className='project-icon material-ui' />;
 const gitIcon = <SiGit className='project-icon git' />;
 
 const header = {
-  // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://github.com/Nelson-Guerra-Tech/cleaner-portfolio',
   title: 'NG.',
 };
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Nelson Guerra',
   role: 'Front End Developer',
   description: `An Army Veteran & Web Developer with a passion for
@@ -42,8 +40,6 @@ const about = {
 };
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: 'Project 1',
     image:
@@ -107,8 +103,6 @@ const projects = [
 ];
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   {
     icon: htmlIcon,
     space: ' - ',
@@ -152,7 +146,6 @@ const skills = [
 ];
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: 'nelsonguerra.tech@outlook.com',
 };
 
