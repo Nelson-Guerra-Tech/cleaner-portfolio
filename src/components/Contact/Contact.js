@@ -1,10 +1,10 @@
-import styled from 'styled-components'
-import { contact } from '../../portfolio'
+import styled from 'styled-components';
+import { contact } from '../../portfolio';
 
-import './Contact.css'
+import './Contact.css';
 
 const Contact = () => {
-  if (!contact.email) return null
+  if (!contact.email) return null;
 
   return (
     <section className='section contact center' id='contact'>
@@ -35,23 +35,21 @@ const Contact = () => {
                   placeholder='Type your message...'
                   required
                 />
-                <button type='button' className='btn btn--outline'>
-                  Send Message
-                </button>
+                <button className='btn btn--outline'>Send Message</button>
               </form>
             </FormContainer>
           </div>
         </ContactContainer>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Contact
+export default Contact;
 
 const ContactContainer = styled.div`
   margin: 2rem 0.1rem;
-`
+`;
 
 const FormContainer = styled.div`
   display: flex;
@@ -83,4 +81,4 @@ const FormContainer = styled.div`
     width: 100%;
     margin: 0;
   }
-`
+`;
